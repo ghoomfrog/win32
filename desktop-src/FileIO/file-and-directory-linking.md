@@ -8,7 +8,7 @@ ms.date: 05/31/2018
 
 # File and Directory Linking
 
-The NTFS file system provides the ability to create a system representation of a file or directory in a location in the directory structure that is different from the file or directory object that is being linked to. This process is called linking. There are two types of links supported in the NTFS file system: [hard links and junctions](hard-links-and-junctions.md).
+The NTFS file system provides the ability to create a system representation of a file or directory in a location in the directory structure that is different from the file or directory object that is being linked to. This process is called linking. There are two types of links supported in the NTFS file system: [hard links, junctions](hard-links-and-junctions.md) and symbolic links.
 
 The NTFS file system also provides the [distributed link tracking service](distributed-link-tracking-and-object-identifiers.md), which automatically tracks links as they are moved.
 
